@@ -4,6 +4,6 @@
 		<?php wp_head(); ?>
 	</head>
 <div class="header">
-	<div class="banner">
+	<div class="banner">aaa
 
 	<body>
