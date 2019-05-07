@@ -1,7 +1,7 @@
 
 <?php get_header(); 
 
-	if ( have_posts() ) : 
+	/*if ( have_posts() ) : 
 
 		
 			// Start the loop.
@@ -21,7 +21,7 @@
 		else :
 			echo "nu avem posturi";
 			
-		endif;
+		endif;*/
 		?>
 
 <?php get_footer(); ?>

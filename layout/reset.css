@@ -1,0 +1,49 @@
+ article, aside, details, figcaption, figure,
+    footer, header, hgroup, main, menu, nav, section {
+    display: block;
+    }
+
+    html, body, div, span, object, iframe,
+    h1, h2, h3, blockquote, pre, p,
+    a, address, big, cite, code,
+    em, img, small, strike, strong, sub, sup,
+    b, i, center,
+    dl, dt, dd, ol, ul, li,
+    form, label, legend,
+    table, caption, tbody, tfoot, thead, tr, th, td,
+    article, aside, canvas, details, embed,
+    figure, figcaption, footer, header, hgroup, main
+    menu, nav, section, video { 
+    
+     margin: 0;
+     padding: 0;
+     border: 0;
+     font-size: 100%;
+     line-height: 1;
+     font-family: inherit;
+     text-align: left;
+     vertical-align: baseline;
+    }
+
+    a img, :link img, :visited img {border: 0;}
+    *, *:before, *:after {
+     box-sizing: border-box;
+     }
+
+    body {
+     font-family: "Trebuchet MS", Arial, Helvetica, sansserif;
+     color: rgb( 34, 34, 34 );
+    }
+
+    ul {
+     list-style-type:none;
+    }
+
+    blockquote, q {
+     quotes: none;
+    }
+
+    table {
+     border-collapse: collapse;
+     border-spacing: 0;
+    } 
