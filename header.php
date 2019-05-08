@@ -9,6 +9,5 @@
 <div class="header">
 	<p>asdkaksdas</p>
 	<div class="banner">
-		<img src="pictures/Banner.png" alt="Banner">
-
+		<img src= "wp-content/themes/Wp_project/pictures/Banner.png" >
 	<body>

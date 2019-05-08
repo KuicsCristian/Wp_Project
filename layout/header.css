@@ -1,12 +1,10 @@
 
 .header{
-	display: block;
 	margin: 0,auto;
-	position: center;
+	float: left;
 	
 	max-width: 1246px;}
 .header p{
  font-size: : 50px;	
 }
 
-.banner {max-width: 100%;}
